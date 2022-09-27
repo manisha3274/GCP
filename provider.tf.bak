@@ -1,0 +1,4 @@
+provider "google" {
+  project     = "enhanced-watch-360113"
+  region      = "us-east1"
+}
